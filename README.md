@@ -1,2 +1,2 @@
 # Road-Crossing-Game
-This is one of my first game
+In this game we are supposed to dodge the cars and take the turtle on the other side of road.
